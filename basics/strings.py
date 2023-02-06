@@ -27,7 +27,7 @@ string8 = 'hello' * 3   # 'hellohellohello'
 
 'hello\nworld'
 # hello
-#world
+# world
 'hello\tworld'
 # hello     world
 'hello\\'
