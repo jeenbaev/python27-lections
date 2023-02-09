@@ -7,7 +7,7 @@
 
 # list1 = ['hello', 10, True, [1,2,3]]
 # for element in list1:
-    # print(element)
+#     print(element)
 # print(element)  # [1,2,3]
 
 # string1 = 'hello world'
