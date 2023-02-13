@@ -99,16 +99,16 @@ c = 2
 
 
 
-dict1 = {
-    'a':{'key':1},
-    'b':{'key':2},
-    'c':{'key':3}
-}
+# dict1 = {
+#     'a':{'key':1},
+#     'b':{'key':2},
+#     'c':{'key':3}
+# }
 
-res = dict1(zip(dict1.keys(), dict1.values)) 
-dict1.pop(dict1.values)
+# res = dict1(zip(dict1.keys(), dict1.values)) 
+# dict1.pop(dict1.values)
 
-print(res)
+# print(res)
 
 
 

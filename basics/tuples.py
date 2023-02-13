@@ -16,6 +16,6 @@
 # print(tuple1.count(1)) #4
 # print(tuple1(count('hello'))) # 0
 
-# index - возвращает интекс данного элемента в tuple
-tuple1 = ('hello', 'world', 105)
-print(tuple.index())
+# index - возвращает индекс данного элемента в tuple
+# tuple1 = ('hello', 'world', 105)
+# print(tuple.index())
